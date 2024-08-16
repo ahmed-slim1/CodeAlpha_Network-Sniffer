@@ -21,7 +21,7 @@ To install Scapy, you can use pip:
 
 
 ##  User Input :
-# remember that these are just examples of what you can enter
+-- remember that these are just examples of what you can enter
 
 * Enter the interface on which to run the sniffer (e.g. 'eth0'): eth0
 * Enter the number of packets to capture (0 is infinity): 10
